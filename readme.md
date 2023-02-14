@@ -11,6 +11,11 @@ Si utiliza *Ubuntu*, puede instalar el compilador *GHC* con la instruccion:
 sudo apt install pypy
 ```
 
+## Uso
+```shell
+pypy3 main.py
+```
+
 ## Otros proyectos similares
 * https://github.com/thomasahle/sunfish
 * https://github.com/healeycodes/andoma
